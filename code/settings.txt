@@ -1,0 +1,16 @@
+bg_color=#2f2f2f
+frame_color=#383838
+text_color=#a0a0ad
+action_frame_color=#534C5A
+open_with_new_save=false
+
+start_keybind=F5
+stop_keybind=F5
+add_keybind=SPACE
+
+//DON'T FORGET TO SAVE THE FILE AFTER YOU EDIT!
+//AFTER SAVING THE FILE (if you are in the app) PRESS THE "Refresh keybinds" BUTTON IN THE BOTTTOM-LEFT CORNER OF THE APP!
+
+//keybinds example: a, e, SPACE, ENTER, F3, h, l, _, +, =, 0, 3, 5, CTRL, ALT, BACKSPACE, left, up, right, down, num (for num lock), caps, scroll etc.
+
+//THIS FILE WILL AUTO-RESET IF YOU MESS A SETTING UP SO DON'T BE AFRAID DO PLAY WITH THE SETTINGS IF YOU WISH TO DO SO

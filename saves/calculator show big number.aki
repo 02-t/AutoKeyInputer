@@ -1,0 +1,7 @@
+{ "time":100, "x":10, "y":1072, "move":"teleport", "type":"click", "key":"left_click"}
+{ "time":100, "x":0, "y":0, "move":"none", "type":"click", "key":"calculator"}
+{ "time":100, "x":0, "y":0, "move":"none", "type":"click", "key":"enter"}
+{ "time":300, "x":0, "y":0, "move":"none", "type":"click", "key":"10+plus+100"}
+{ "time":100, "x":0, "y":0, "move":"none", "type":"click", "key":"equals"}
+{ "time":100, "x":0, "y":0, "move":"none", "type":"click", "key":"*9="}
+{ "time":600, "x":0, "y":0, "move":"none", "type":"click", "key":"*323*3232323*3="}
